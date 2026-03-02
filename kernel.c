@@ -5,7 +5,7 @@
 void kernel_main(void) {
     terminal_initialize();
 
-    terminal_writestring("TerminalOS v1.0\n");
+    terminal_writestring("FreezeOS v0.6\n");
     terminal_writestring("> ");
 
     char input[128];
